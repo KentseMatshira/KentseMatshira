@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kentse Matshira</h1>
 <h3 align="center">A passionate aspiring Frontend software developer from South Africa</h3>
+<img align="center" alt="coding" width="400"src= "https://i.gifer.com/JXA0.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kentsematshira&label=Profile%20views&color=0e75b6&style=flat" alt="kentsematshira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kentsematshira" alt="kentsematshira" /></a> </p>
 
 - 🔭 I’m currently working as **Freight Forwarder/Part-time Software development Student**
 
@@ -13,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/kentsematshira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kentsematshira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kentse-matshira-217957115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kentse-matshira-217957115/" height="30" width="40" /></a>
 </p>
 
